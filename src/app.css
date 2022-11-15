@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.fondo{
+    background-image: url('https://images.ctfassets.net/zufa6rs33wd9/opmoKkyR8cAcoCMIAkWWs/87889ff689f1b96bfee81e3885bf13cb/qbsygspqfzhso5aqmurq?w=2000&q=50');
+}
+
+.title{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    background-color: black;
+}
